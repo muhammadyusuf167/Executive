@@ -1,0 +1,255 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header {
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+
+.header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header-link {
+    margin-right: 175px;
+}
+
+.nav {
+    width: 100%;
+}
+
+
+.list {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.list-link {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+    color: #373737;
+    text-decoration: none;
+}
+
+.list-button {
+    border: 2px solid #717CFF;
+    border-radius: 11px;
+    padding: 10px 35px;
+}
+
+.div-main {
+    margin: 100px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.more-news {
+    width: 150px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(84, 84, 243);
+    margin: 30px;
+    padding: 7px;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-between;
+}
+
+.sentence {
+    padding: 15px;
+}
+
+.text {
+    padding: 15px;
+}
+
+.instagram {
+    padding: 15px;
+}
+
+.facebook {
+    padding: 10px;
+}
+
+.twitter {
+    padding: 10px;
+}
+
+.picture {
+    width: 1046px;
+    height: 728px;
+}
+
+.word {
+    text-align: center;
+}
+
+.image {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    list-style: none;
+    text-decoration: none;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container1 {
+    padding-bottom: 200px;
+    margin-left: 250px;
+}
+
+.main-inner {
+
+    width: 1440px;
+    height: 200px;
+}
+
+.our-service {
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+
+
+.list-item:hover {
+    border-radius: 20px;
+    color: purple;
+    border: 1px solid #fff;
+
+
+}
+
+.main-inner-ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.list-item {
+    width: 33.33%;
+}
+
+.upcoming {
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+.section-div-ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.list-items {
+    width: 540px;
+    height: 308px;
+}
+
+.bolt {
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+
+.Learn {
+    color: blue;
+}
+
+.svg {
+    margin-left: 10px;
+}
+
+.clock {
+    margin-left: 120px;
+}
+
+.div-page {
+    text-align: center;
+}
+
+.lists {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+}
+
+.lis {
+    margin: 20px;
+}
+
+.Testimonial {
+    text-align: center;
+}
+
+.test {
+    text-align: center;
+}
+
+.twoli {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    list-style: none;
+    text-decoration: none;
+    margin: 30px;
+}
+
+.ainara {
+    margin-right: 50px;
+}
+
+.harrison {
+    margin-left: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+.more-newss {
+    width: 150px;
+    padding: 15px;
+    color: white;
+    background-color: rgb(84, 84, 243);
+    margin: 30px;
+    padding: 7px;
+    border-radius: 20px;
+    display: flex;
+    flex-flow: wrap row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.futer {
+    margin-left: 350px;
+}
